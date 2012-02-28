@@ -6,7 +6,6 @@ Gem::Specification.new do |s|
   s.version = Looksee::VERSION
   s.authors = ["George Ogata"]
   s.email = ["george.ogata@gmail.com"]
-  s.date = Time.now.strftime('%Y-%m-%d')
   s.summary = "Supercharged method introspection in IRB."
   s.homepage = 'http://github.com/oggy/looksee'
 
